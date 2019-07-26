@@ -4,7 +4,7 @@
 >* 原文仓库：https://github.com/sendilkumarn/draw-page
 >* 原文作者：[Sendil Kumar N](https://dev.to/sendilkumarn)
 >* 译文出自：https://github.com/suhanyujie
->* 本文永久链接：（缺省）
+>* 本文永久链接：https://github.com/suhanyujie/article-transfer-rs/blob/master/src/2019/Create-Dev_s-offline-page-with-Rust-and-WebAssembly.md
 >* 译者：[suhanyujie](https://github.com/suhanyujie)
 >* 翻译不当之处，还请指出，谢谢！
 >* 文中的页面效果可以参考这里：[离线画图页](https://dev.to/offline)
